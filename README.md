@@ -1,7 +1,7 @@
 # MelGAN
 Train melgan on `VCTK`
 
-Put wav data in 'wavs' dir
+Put wav data in `wavs` dir
 ```
 wavs
     p255
