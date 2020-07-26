@@ -1,6 +1,16 @@
 # MelGAN
 Train melgan on `VCTK`
-put wav data in wavs dir
+
+Put wav data in 'wavs' dir
+```
+wavs
+    p255
+        p255-*.wav
+    p256
+        p256-*.wav
+    p257
+        p257-*.wav
+```
 ### requirement
 1. librosa
 2. pytorch
